@@ -1,5 +1,5 @@
 package pratica4;
-//
+
 public class ReservaEntrada extends Thread {
 
     private final Servidores servidor;
